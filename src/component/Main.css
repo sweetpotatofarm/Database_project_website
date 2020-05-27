@@ -1,0 +1,52 @@
+.Main{
+    display: flex;
+    height: 80%;
+    width: 100%;
+    flex-direction: column;
+}
+
+.Title{
+    display: flex;
+    height: 30%;
+    width: 100%;
+    justify-content: center;
+    font-size: 45px;
+    font-family: Arial;
+}
+
+.UserInput{
+    display: flex;
+    height: 70%;
+    width: 100%;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.Option{
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+}
+
+.Question{
+    display: flex;
+    height: 10%;
+}
+
+.Religion{
+    display: flex;
+    width: 150px;
+    height: 30px;
+}
+
+.Place{
+    display: flex;
+    width: 150px;
+    height: 30px;
+}
+
+.Budget{
+    display: flex;
+    width: 200px;
+    height: 30px;
+}
