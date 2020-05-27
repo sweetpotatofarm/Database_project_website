@@ -46,6 +46,9 @@ class Main extends React.Component{
                         </select>
                     </dev>
                 </dev>
+                <dev className="Submit">
+                    <button className="SubmitButton">submit</button>
+                </dev>
             </dev>
         )
     }
